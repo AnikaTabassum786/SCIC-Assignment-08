@@ -1,3 +1,10 @@
+// Write a function that takes a string and returns it reversed.
+
+// Example:
+
+// Input: "hello"
+// Output: "olleh"
+
 function reverseString(string){
  
     const array = string.split('');
